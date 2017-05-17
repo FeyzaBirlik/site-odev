@@ -1,0 +1,62 @@
+#container{
+	width:960px;
+	height:1024px;
+	margin:0 auto;
+
+}
+#ustbanner{
+	width:960px;
+	height:170px;
+	background-color:#f0e2e2;
+	float:left;
+}
+#logo{
+	width:200px;
+	height:100px;
+	margin:0 auto;
+	display:block;
+}
+
+#fotografbanner{
+	width:630px;
+	height:655px;
+	background-color:#e4c4c5;
+	margin:0 auto;
+	border-style:solid;
+	position:relative;
+	float:left;
+	
+}
+	
+	
+
+#menubanner{
+	width:317px;
+	height:655px;
+	background-color:#f01e1e;
+	margin:0 auto;
+	border-style:solid;
+	float:left;
+	
+}
+#ara{
+	width:960px;
+	height:45px;
+	background-color:#f0e2e2;
+	margin:0 auto;
+	float:left;
+}
+#footer{
+	width:960px;
+	height:155px;
+	margin:0 auto;
+	background-color:#f01e1e;
+	float:left;
+}
+li{
+	display:inline;
+	font-size:15px;
+}
+#pass{
+	word-spacing:75px;
+}
