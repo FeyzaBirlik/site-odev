@@ -10,34 +10,128 @@
 	background-color:#f0e2e2;
 	float:left;
 }
+
+
+#icbanner{
+	width:900px;
+	height:45px;
+	margin-top:20px;
+	margin-left:30px;
+	
+	
+	
+	background-color:#8b1616;
+}
+
+li{
+	display:inline;
+	margin-top:10px;
+	color:white;
+	font-size:15px;
+	text-align:center;
+	
+}
+li:hover{
+	color:orange;
+}
+	
 #logo{
-	width:200px;
-	height:100px;
+	width:190px;
+	height:90px;
 	margin:0 auto;
 	display:block;
+	
+	
+	
 }
 
 #fotografbanner{
-	width:630px;
+	width:627px;
 	height:655px;
-	background-color:#e4c4c5;
+	background-color:#f0e2e2;
 	margin:0 auto;
 	border-style:solid;
 	position:relative;
 	float:left;
 	
 }
+#yemekfotobanner{
+	width:627px;
+	height:200px;
+margin-top:10px;
+}
+#yemekfoto{
+	width:200px;
+	height:200px;
+	float:left;
+	margin-top:10px;
+	margin-left:9px;
+}
+#yemekfoto1{
+	width:200px;
+	height:200px;
+	margin-top:10px;
+	margin-left:3px;
+	float:left
+}
+#yemekfoto2{
+	width:200px;
+	height:200px;
+	margin-top:10px;
+	margin-left:3px;
+
+}
+#yemekdiv{
+	width:626px;
+	height:305px;
+	float:left;
+	margin-top:100px;
+	
+}
+
+#yemek{
+	width: 610px;
+    height: 300px;
+    margin-left: 9px;
+    margin-top: -68px;
+}
+	
+
+#fotobilgibanner{
+	width:624pX;
+	height:55px;
+	background-color:#8b1616;
+	margin-top:350px;
+	border-style:solid;
+	
+	
+}
 	
 	
 
 #menubanner{
-	width:317px;
+	width:315px;
 	height:655px;
-	background-color:#f01e1e;
+	background-color:#8b1616;
 	margin:0 auto;
 	border-style:solid;
 	float:left;
+	margin-left:6px;
 	
+}
+#gununmenusu{
+	display:inline;
+	margin-top:15px;
+	margin-left:20px;
+	font-size:30px;
+	word-spacing:5pX;
+}
+#kasik{
+	width:1000px;
+	height:600;
+	margin-top:-240px;
+	margin-left:-360px;
+	float:left;
 }
 #ara{
 	width:960px;
@@ -47,16 +141,31 @@
 	float:left;
 }
 #footer{
-	width:960px;
+	width:957px;
 	height:155px;
-	margin:0 auto;
-	background-color:#f01e1e;
+	margin-top:0px;
+	background-color:#8b1616;
 	float:left;
+	border-style:solid;
 }
-li{
-	display:inline;
-	font-size:15px;
-}
+
 #pass{
-	word-spacing:75px;
+	word-spacing:45px;
+	padding:10px;
+	
+}
+.yazi{
+	margin-top: 5px;
+    text-color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 20px;
+}
+#menutext{
+	text-align:center;
+	font-size:20px;
+	display:inline;
+    margin-top:-500px;
+	float:left;
+	color:white;
 }
