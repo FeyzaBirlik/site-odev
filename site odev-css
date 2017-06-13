@@ -1,86 +1,70 @@
 #container{
 	width:960px;
-	height:1024px;
+	height:800px;
 	margin:0 auto;
-
+	background-color:#f0e2e2;
 }
 #ustbanner{
 	width:960px;
-	height:170px;
+	height:100px;
 	background-color:#f0e2e2;
 	float:left;
+	margin-top:0px;
+	
 }
 
-
 #icbanner{
-	width:900px;
-	height:45px;
-	margin-top:20px;
-	margin-left:30px;
-	
-	
-	
-	background-color:#8b1616;
+	width: 900px;
+    height: 40px;
+    margin-top: -2px;
+    margin-left: 30px;
+    border-style: solid;
+    border-width: 1px;
+    float: left;
+    background-color: #8b1616;
 }
 
 li{
 	display:inline;
-	margin-top:10px;
+	margin-top:5px;
 	color:white;
 	font-size:15px;
 	text-align:center;
 	
 }
-li:hover{
+.yazi:hover{
 	color:orange;
 }
-	
+
 #logo{
-	width:190px;
-	height:90px;
-	margin:0 auto;
-	display:block;
-	
-	
-	
+	width: 170px;
+    height: 70px;
+    margin-left: 395px;
+    margin-top: 20px;
+    float: left;
 }
+	
+	
+
 
 #fotografbanner{
 	width:627px;
-	height:655px;
+	height:700px;
 	background-color:#f0e2e2;
 	margin:0 auto;
 	border-style:solid;
 	position:relative;
 	float:left;
-	
+	border-width:1px;
+	margin-top:10px;
 }
 #yemekfotobanner{
 	width:627px;
 	height:200px;
 margin-top:10px;
 }
-#yemekfoto{
-	width:200px;
-	height:200px;
-	float:left;
-	margin-top:10px;
-	margin-left:9px;
-}
-#yemekfoto1{
-	width:200px;
-	height:200px;
-	margin-top:10px;
-	margin-left:3px;
-	float:left
-}
-#yemekfoto2{
-	width:200px;
-	height:200px;
-	margin-top:10px;
-	margin-left:3px;
 
-}
+
 #yemekdiv{
 	width:626px;
 	height:305px;
@@ -90,68 +74,86 @@ margin-top:10px;
 }
 
 #yemek{
-	width: 610px;
+	width: 460px;
     height: 300px;
-    margin-left: 9px;
-    margin-top: -68px;
+    margin-left: 85px;
+    margin-top: -680px;
+	border-style: solid;
+	border-width:2px;
 }
 	
 
 #fotobilgibanner{
-	width:624pX;
-	height:55px;
-	background-color:#8b1616;
-	margin-top:350px;
-	border-style:solid;
+	width: 625pX;
+    height: 118px;
+    background-color: #8b1616;
+    margin-top: 170px;
+    border-style: solid;
+    border-width: 1px;
 	
 	
 }
-	
-	
-
+#foto1{
+	width: 120px;
+    height: 100px;
+    float: left;
+    margin-left: 60px;
+    margin-top: -225px;
+	border-style: solid;
+    border-width: 2px;
+}
+#foto2{
+	    width: 120px;
+    height: 100px;
+    float: left;
+    margin-left: 256px;
+    margin-top: -225px;
+    border-style: solid;
+    border-width: 2px;
+}
+#foto3{
+	width: 120px;
+    height: 100px;
+    float: left;
+    margin-left: 450px;
+    margin-top: -225px;
+	border-style: solid;
+    border-width: 2px;
+}
 #menubanner{
-	width:315px;
-	height:655px;
+	width:322px;
+	height:700px;
 	background-color:#8b1616;
 	margin:0 auto;
 	border-style:solid;
 	float:left;
 	margin-left:6px;
+	border-width:1px;
+	margin-top:10px;
 	
 }
-#gununmenusu{
-	display:inline;
-	margin-top:15px;
-	margin-left:20px;
-	font-size:30px;
-	word-spacing:5pX;
+#menubaslık{
+	    display: inline;
+   
+    margin-left: 50px;
+    font-size: 30px;
+    word-spacing: 5pX;
+    color: white;
 }
+
 #kasik{
-	width:1000px;
-	height:600;
-	margin-top:-240px;
-	margin-left:-360px;
-	float:left;
+	width: 900px;
+    height: 700px;
+    margin-top: -220px;
+    margin-left: -300px;
+    float: left;
 }
-#ara{
-	width:960px;
-	height:45px;
-	background-color:#f0e2e2;
-	margin:0 auto;
-	float:left;
-}
-#footer{
-	width:957px;
-	height:155px;
-	margin-top:0px;
-	background-color:#8b1616;
-	float:left;
-	border-style:solid;
-}
+
+
 
 #pass{
 	word-spacing:45px;
-	padding:10px;
+	padding:0px;
 	
 }
 .yazi{
@@ -160,12 +162,61 @@ margin-top:10px;
     text-align: center;
     padding-top: 5px;
     padding-left: 20px;
+	
 }
-#menutext{
-	text-align:center;
+
+
+#footer{
+	width: 625px;
+    height: 150px;
+    margin-top: 49px;
+    margin-left: 1px;
+    background-color:#544949;
+	
+	
+}
+#face{
+	    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 27;
+	
+}
+	
+#insta{
+	    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+    margin-top: 13px;
+		
+}
+#mail{
+	width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: -3px
+}
+#adres{
+	font-size: 15px;
+    
+    text-spacing: 3px;
+    margin-left: 250px;
+    margin-top: -0px;
+    color: white;
+}
+#tel{
+	margin-top: -290px;
+    margin-left: 300px;
+    font-size: 24px;
+    color: white;
+}
+
+#menuicerik{
 	font-size:20px;
-	display:inline;
-    margin-top:-500px;
-	float:left;
 	color:white;
+	line-height: 200%;
+	text-align:center;
+	 position: relative;
+  
+  top: -400px;
 }
